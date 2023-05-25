@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 🌱 I’m currently learning ...
 
 <!--
 **Ida12345678/Ida12345678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
